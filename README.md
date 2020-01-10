@@ -9,3 +9,5 @@ That's where TrueSight comes in
 
 TrueSight is just a concept.
 Concept of an app/web interface to see nearest bathrooms, atm and multiple other useful locations while touristing.
+
+##
